@@ -1,1 +1,0 @@
-Volim beba Zeki
