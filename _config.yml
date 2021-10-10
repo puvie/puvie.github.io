@@ -19,7 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: George M. Blog
-author: Đorđe Marinković
+author: 
+  name: Đorđe Marinković
 #email: djordjemarinkovic@protonmail.com
 description: Food Sci & IT
 baseurl: "" # the subpath of your site, e.g. /blog
