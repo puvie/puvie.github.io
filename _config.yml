@@ -18,7 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: georgem.org
+title: George M. Blog
+author: Đorđe Marinković
 email: djordjemarinkovic@protonmail.com
 description: Food Sci & IT
 baseurl: "" # the subpath of your site, e.g. /blog
