@@ -20,7 +20,7 @@
 
 title: George M. Blog
 author: Đorđe Marinković
-email: djordjemarinkovic@protonmail.com
+#email: djordjemarinkovic@protonmail.com
 description: Food Sci & IT
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
