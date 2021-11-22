@@ -2,7 +2,6 @@
 layout: post
 title:  "Fun fermentation at home: Spontaneous fermentation of carrots – part 1"
 date:   2021-11-22 20:04:29 +0200
-categories: jekyll update
 ---
 I found an interesting research paper from 2018., titled _Carrot juice fermentations as man-made microbial ecosystems dominated by lactic acid bacteria_ (doi: 10.1128/AEM.00134-18).
 
@@ -12,7 +11,7 @@ Quote from the aforementioned paper (Note: LAB = Lactic Acid Bacteria/Bacteriae)
 
 > Participants were asked to ferment their own carrots (either from their garden, supermarket, or organic origin), in their own jars and kitchens, according to a standard procedure, after attending a workshop. The resulting culture-dependent data of these household fermentations, combined with those of carefully monitored laboratory fermentations, showed that spontaneous carrot juice fermentation is a consistent microbiological process. It is characterized first by the presence of Enterobacteriaceae, followed by a clear shift in microbial abundances, ultimately resulting in a dominance of LAB species. This drastic shift in microbial communities took place between days 3 and 13 of fermentation, and acidification by the LAB led to a decrease in pH below 4.6, the widely accepted food fermentation safety threshold.
 
-The researchers found that the dominating LAB species were mainly Leuconostoc spp and Lactobacillus spp. These LAB have a myriad of positive effects on human gastrointestinal tract, but that topic is beyond the scope of this post.
+The researchers found that the dominating LAB species were mainly _Leuconostoc_ spp. and _Lactobacillus_ spp. These LAB have a myriad of positive effects on human gastrointestinal tract, but that topic is beyond the scope of this post.
 
 This is a fun (and very likely, tasty!) experiment using only three ingredients: carrots, water and salt.
 
