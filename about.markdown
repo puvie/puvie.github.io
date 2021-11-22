@@ -8,7 +8,7 @@ Hi!
 
 My name is Đorđe (anglicized: George, hence the website domain name).
 
-I hold a Bachelor's degree in Food Engineering & Biotechnology. My Bachelor's thesis was titled "Bioethanol production from potatoes using immobilized yeast".
+I hold a Bachelor's degree in Food Engineering & Biotechnology. My Bachelor's thesis was titled _Bioethanol production from potatoes using immobilized yeast_.
 Currently, I'm a Master's student in Food Engineering - Industrial bioprocessing module. 
 My (academic) interests include process optimization, analytical sensors, and general industrial microbiology. I'm also self-learning some IT stuff (programming and data analysis), which I need for some project ideas.
 
