@@ -3,7 +3,7 @@ layout: post
 title:  "Fun fermentation at home: Spontaneous fermentation of carrots – part 1"
 date:   2021-11-22 20:04:29 +0200
 ---
-I found an interesting research paper from 2018., titled _Carrot juice fermentations as man-made microbial ecosystems dominated by lactic acid bacteria_ (doi: 10.1128/AEM.00134-18).
+I found an interesting research paper from 2018., titled: _Carrot juice fermentations as man-made microbial ecosystems dominated by lactic acid bacteria_ (doi: 10.1128/AEM.00134-18).
 
 The quote below is what sparked an idea in me to start a small series of fermentation experiments at home. The what: fermentation of carrots (and, in time, carrot juice). The why: pure enjoyment and to see if I can create something I'd consume regularly.
 
