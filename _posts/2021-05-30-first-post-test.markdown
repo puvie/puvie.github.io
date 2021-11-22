@@ -24,7 +24,7 @@ print_hi('Tom')
 
 Image below:
 
-<img src="http://andrewhzau.github.io/RICENCODE/assets/images/GSD1.pheno.png" >  
+<img src="https://i.imgur.com/qgxvAT5.jpeg" >
 
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
