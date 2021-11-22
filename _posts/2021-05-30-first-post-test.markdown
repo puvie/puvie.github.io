@@ -23,7 +23,8 @@ print_hi('Tom')
 {% endhighlight %}
 
 Image below:
-![My helpful screenshot]/img/LogoMakr-8DjxQg.png)
+
+<img src="http://andrewhzau.github.io/RICENCODE/assets/images/GSD1.pheno.png" >  
 
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
