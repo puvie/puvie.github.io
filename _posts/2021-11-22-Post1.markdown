@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Fun fermentation at home: Spontaneous fermentation of carrots – part 1"
+date:   2021-11-22 20:04:29 +0200
+categories: jekyll update
+---
+I found an interesting research paper from 2018., titled _Carrot juice fermentations as man-made microbial ecosystems dominated by lactic acid bacteria_ (doi: 10.1128/AEM.00134-18).
+
+The quote below is what sparked an idea in me to start a small series of fermentation experiments at home. The what: fermentation of carrots (and, in time, carrot juice). The why: pure enjoyment and to see if I can create something I'd consume regularly.
+
+Quote from the aforementioned paper (Note: LAB = Lactic Acid Bacteria/Bacteriae): 
+
+> Participants were asked to ferment their own carrots (either from their garden, supermarket, or organic origin), in their own jars and kitchens, according to a standard procedure, after attending a workshop. The resulting culture-dependent data of these household fermentations, combined with those of carefully monitored laboratory fermentations, showed that spontaneous carrot juice fermentation is a consistent microbiological process. It is characterized first by the presence of Enterobacteriaceae, followed by a clear shift in microbial abundances, ultimately resulting in a dominance of LAB species. This drastic shift in microbial communities took place between days 3 and 13 of fermentation, and acidification by the LAB led to a decrease in pH below 4.6, the widely accepted food fermentation safety threshold.
+
+The researchers found that the dominating LAB species were mainly Leuconostoc spp and Lactobacillus spp. These LAB have a myriad of positive effects on human gastrointestinal tract, but that topic is beyond the scope of this post.
+
+This is a fun (and very likely, tasty!) experiment using only three ingredients: carrots, water and salt.
+
+Carrots were bought in a local supermarket, peeled and cut into approx. 15 cm long  and 1-2 cm wide sticks, and then stacked into a clean jar in such a way that there is minimal space between them (this is so that the carrot sticks don't float to the top when brine is added).
+
+One liter of 2% (by weight) salt brine was made by combining 1 kg of water with 20 g of table salt. The brine was then poured in the jar with the carrot sticks. A jar lid was placed loosely over the jar and the prepared jar was placed to sit at room temperature (approx. 21 ± 2 °C).
+
+The first experiment is a simple spontaneous fermentation. After assessing the results of this experiment (I'll let the fermentation go for a minimum of 3 and a maximum of 7 days), I'll probably start a new batch: two jars, one like before, the other one with a tablespoon or two of sauerkraut juice (commonly known as _rasol_ in my country).
+
