@@ -15,3 +15,5 @@ My (academic) interests lay in the industrial microbiology/bioprocess engineerin
 My hobbies include going to the gym, traveling, watching movies, and learning German.
 
 This blog is an aggregation of my thoughts, interests and ideas in the form of short and concise blog-style bits of text.
+
+You can contact me via e-mail: djordjemarinkovic@pm.me
