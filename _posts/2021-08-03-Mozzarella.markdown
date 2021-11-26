@@ -29,6 +29,8 @@ The method:
 
 After this last step, the cheese can be eaten as-is, or wrapped in a plastic wrap and then put into an airtight container in the refrigerator (mozzarella hates air; this is, as I already mentioned, a lower moisture mozzarella, so I don’t keep it in a brine or leftover whey).
 
+The yield I consistently get is around 160 g of cheese.
+
 <img src = "https://i.imgur.com/URaiBfJ.png" height = "400px" width = "auto">
 
 My attempt at showcasing the melting capabilities of this cheese:
