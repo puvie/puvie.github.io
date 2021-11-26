@@ -29,15 +29,11 @@ The method:
 
 After this last step, the cheese can be eaten as-is, or wrapped in a plastic wrap and then put into an airtight container in the refrigerator (mozzarella hates air; this is, as I already mentioned, a lower moisture mozzarella, so I don’t keep it in a brine or leftover whey).
 
-<p align=“center”>
 <img src = "https://i.imgur.com/URaiBfJ.png" height = "400px" width = "auto">
-</p>
 
 My attempt at showcasing the melting capabilities of this cheese:
 
-<p align=“center”>
 <img src = "https://i.imgur.com/lNQKs0t.png" height = "400px" width = "400px">
-</p>
 
 ### Some notes and thoughts 
 Even though we know that “maximum gel firmness”, ie. casein concentration (Phadungath, 2005) occurs at the pH < 4.6 (which is the isoelectric point of casein), I suspect that the pH value of this method is much lower than 4.6. This poses a problem because the whey is basically unsuitable for consumption, because of its sourness, and needs to be discarded. I also tried to make some ricotta from this whey, but was unsuccessful.
