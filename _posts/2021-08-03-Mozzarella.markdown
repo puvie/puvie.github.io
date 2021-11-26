@@ -29,13 +29,13 @@ The method:
 
 After this last step, the cheese can be eaten as-is, or wrapped in a plastic wrap and then put into an airtight container in the refrigerator (mozzarella hates air; this is, as I already mentioned, a lower moisture mozzarella, so I don’t keep it in a brine or leftover whey).
 
-<p align = “center”>
+<p align=“center”>
 <img src = "https://i.imgur.com/URaiBfJ.png" height = "400px" width = "auto">
 </p>
 
 My attempt at showcasing the melting capabilities of this cheese:
 
-<p align = “center”>
+<p align=“center”>
 <img src = "https://i.imgur.com/lNQKs0t.png" height = "400px" width = "400px">
 </p>
 
