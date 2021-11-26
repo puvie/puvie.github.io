@@ -36,7 +36,7 @@ My attempt at showcasing the melting capabilities of this cheese:
 <img src = "https://i.imgur.com/lNQKs0t.png" height = "400px" width = "400px">
 
 ### Some notes and thoughts 
-Even though we know that “maximum gel firmness”, ie. casein concentration (Phadungath, 2005) occurs at the pH < 4.6 (which is the isoelectric point of casein), I suspect that the pH value of this method is much lower than 4.6. This poses a problem because the whey is basically unsuitable for consumption, because of its sourness, and needs to be discarded. I also tried to make some ricotta from this whey, but was unsuccessful.
+Even though we know that “maximum gel firmness”, ie. casein concentration occurs at the pH < 4.6 (which is the isoelectric point of casein) (Phadungath, 2005), I suspect that the pH value of this method is much lower than 4.6. This poses a problem because the whey is basically unsuitable for consumption, because of its sourness, and needs to be discarded. I also tried to make some ricotta from this whey, but was unsuccessful.
 
 The step number 5 in the list above could be modified by adding a small amount of salt to the cheese while it’s being kneaded. This would probably improve the taste of the cheese.
 
@@ -44,4 +44,3 @@ The step number 6 could be modified, so that plain water is salted and then heat
 
 #### Reference used
 Phadungath, C., 2005. The mechanism and properties of acid-coagulated milk gels. _Songklanakarin J. Sci. Technol, 27_(2), pp.433-448.
-
