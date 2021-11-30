@@ -5,7 +5,7 @@ date:   2021-09-17 20:04:29 +0200
 ---
 > When the yogurt took over, we all made the same jokes – “Finally, our rulers will have culture,” “Our society has curdled,” “Our government is now the cream of the crop,” and so on. But when we weren’t laughing about the absurdity of it all, we looked into each others’ eyes with the same unasked question – how did we ever get to the point where we were, in fact, ruled by a dairy product?
 
-This is a short [story]( https://whatever.scalzi.com/2010/10/02/when-the-yogurt-took-over-a-short-story/) by an american author John Scalzi, which was adapted into a short cartoon-style [film]( https://www.imdb.com/title/tt9788494/) as an episode of the anthology series _Love, Death + Robots_ produced by Blur Studios, and published on Netflix in 2019.
+This is a short [story]( https://whatever.scalzi.com/2010/10/02/when-the-yogurt-took-over-a-short-story/) by an American author John Scalzi, which was adapted into a short cartoon-style [film]( https://www.imdb.com/title/tt9788494/) as an episode of the anthology series _Love, Death + Robots_ produced by Blur Studios, and published on Netflix in 2019.
 
 The story is simple: researchers at an institute are working with DNA computing, and use a very advanced strain of their product to graft it onto _Lactobacillus delbrueckii_ subsp. _bulgaricus_ (which is commonly used to ferment yogurt). The yogurt becomes sentient and offers to solve complex humanity's problems, such as energy and economy issues, but the humans are... well, humans. 
 
