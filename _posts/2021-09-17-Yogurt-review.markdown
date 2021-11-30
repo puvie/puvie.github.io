@@ -9,7 +9,7 @@ This is a short [story]( https://whatever.scalzi.com/2010/10/02/when-the-yogurt-
 
 The story is simple: researchers at an institute are working with DNA computing, and use a very advanced strain of their product to graft it onto _Lactobacillus delbrueckii_ subsp. _bulgaricus_ (which is commonly used to ferment yogurt). The yogurt becomes sentient and offers to solve complex humanity's problems, such as energy and economy issues, but the humans are... well, humans. 
 
-While truly short (1000 words, around 6 minutes in film form), the story is half scary, half hilarious, but also poses some „what if“ questions, and at the same time shows us the nature of the struggles of being humans.
+While truly short (1000 words, around 6 minutes in film form), the story is half scary, half hilarious, but also poses some _what if_ questions, and at the same time shows us the nature of the struggles of being human.
 
 My favorite quote:
 > Some of us ask ourselves – not out loud –  that if the yogurt was smart enough to give the government a formula to solve its debt problem, wasn’t it also smart enough to realize that human intellectual vanity would keep us from following the formula exactly? . . . And then there’s this. In the last several weeks the yogurt has initiated several space launches. More are scheduled. And in low orbit, something is being built.
