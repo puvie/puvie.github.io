@@ -7,7 +7,7 @@ date:   2021-09-17 20:04:29 +0200
 
 This is a short [story]( https://whatever.scalzi.com/2010/10/02/when-the-yogurt-took-over-a-short-story/) by an american author John Scalzi, which was adapted into a short cartoon-style [film]( https://www.imdb.com/title/tt9788494/) as an episode of the anthology series _Love, Death + Robots_ produced by Blur Studios, and published on Netflix in 2019.
 
-The story is simple: researchers at an institute are working with DNA computing, use a very advanced strain of their product to graft it onto _Lactobacillus delbrueckii_ subsp. _bulgaricus_ (which is commonly used to ferment yogurt). The yogurt becomes sentient and offers to solve complex humanity's problems, such as energy and economy issues, but the humans are... well, humans. 
+The story is simple: researchers at an institute are working with DNA computing, and use a very advanced strain of their product to graft it onto _Lactobacillus delbrueckii_ subsp. _bulgaricus_ (which is commonly used to ferment yogurt). The yogurt becomes sentient and offers to solve complex humanity's problems, such as energy and economy issues, but the humans are... well, humans. 
 
 While truly short (1000 words, around 6 minutes in film form), the story is half scary, half hilarious, but also poses some „what if“ questions, and at the same time shows us the nature of the struggles of being humans.
 
