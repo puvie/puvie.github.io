@@ -16,7 +16,8 @@ Approx. 350 g of this shredded sauerkraut was used which was then squeezed tight
 
 ##### The before and after:
 
-<img src="https://i.imgur.com/frZiFAb.jpg" height="400 px" width="auto"> <br>
+<img src="https://i.imgur.com/frZiFAb.jpg" height="400 px" width="auto">
+<p></p>
 <img src="https://i.imgur.com/mXeVD47.jpg" height="400 px" width="auto">
 
 A Philips electric coffee grinder was then used to pulverize the dehydrated sauerkraut into a powder. A fine powder consistency couldn’t be achieved – I suspect it was because the hard stem part of leaves that are chewy when fresh turned hard and sort of sticky after drying out; the other reason was probably the insufficient power of my coffee grinder.
