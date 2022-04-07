@@ -14,7 +14,7 @@ Anyway, I found a local producer of sauerkraut, and it was pre-shredded, which w
 
 Approx. 350 g of this shredded sauerkraut was used which was then squeezed tightly between my hands, to remove as much excess moisture as possible. I didn’t have a scale in my makeshift home lab at the time, so I didn’t weigh the end result after squeezing. I then arranged the pieces of sauerkraut in my dehydrator and let the dehydrator run for 4+4 hours (flipped the tray order after the first 4 hours).
 
-##### The before and after:
+#### The before and after:
 
 <img src="https://i.imgur.com/frZiFAb.jpg" height="400 px" width="auto">
 <p></p>
