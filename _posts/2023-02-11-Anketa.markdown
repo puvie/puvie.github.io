@@ -122,7 +122,7 @@ Logika bi trebalo da nalaže da narandžasti dio trebalo da bude 50%, ali rezult
 
 <img src="https://i.imgur.com/kASUDDp.png">
  
-Vjerovatno svima koji ovo čitaju – jedno od najinteresantnijih pitanja. Od svih ispitanika koji rade u struci, njih oko 30% rade za platu do 1000 KM. Zeleni i ljubičasti dio kružnog grafikona su 4.5%, odnosno po jedna osoba je odgovorila sa platama 1500-2000 KM i 2000-2500 KM.
+Vjerovatno svima koji ovo čitaju – jedno od najinteresantnijih pitanja. Od svih ispitanika koji rade u struci, njih 60% rade za platu do 1000 KM. Zeleni i ljubičasti dio kružnog grafikona su 4.5% (od ukupnog broja ispitanika), odnosno po jedna osoba je odgovorila sa platama 1500-2000 KM i 2000-2500 KM.
 
 ### 7. Kako si pronašao/la svoj prvi posao u struci? (Moguće je odabrati više odgovora)
 <img src="https://i.imgur.com/61eTuS3.png">
