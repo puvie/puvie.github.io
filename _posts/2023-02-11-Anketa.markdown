@@ -1,0 +1,192 @@
+---
+layout: post
+title:  "Anketa za inženjere prehrambene i hemijske tehnologije - pitanja i rezultati"
+date:   2023-02-11 20:04:29 +0200
+---
+
+Početkom jula mjeseca 2022. godine, napravio sam kratku anketu sa pitanjima o presjeku stanja diplomiranih inženjera prehrambene i hemijske tehnologije. Čekao sam da prođe više od pola godine, uz poluaktivno dijeljenje ankete na svim kanalima koji su mi bili dostupni (Instagram/Viber/E-mail/Discord poznanici i bivše (sa osnovnih studija), kao i sadašnje (sa master studija) kolege). 
+
+Dobio sam dosta prijedloga vezano za pravljenje i dijeljenje ankete, od kojih sam neke uvažio, a neke ne. Na primjer, nije uvažen prijedlog da pošaljem svim profesorima anketu, jer sam mišljenja da bi objektivnost rezultata, odnosno odgovora, bila ugrožena. Profesorska pozicija zahtijeva mnogo naknadnih ulaganja nakon samog završetka osnovnih studija, u obliku dodatnog višegodišnjeg školovanja, objavljivanja radova, i sl., koji rezultuju i boljim uslovima rada, pogotovo kada pričamo o plati, koja je za docente [oko 2 puta viša](https://advokat-prnjavorac.com/Zakon-o-platama-zaposlenih-u-oblasti-visokog-obrazovanja-Republike-Srpske.html), a za redovne profesore oko 2.7 puta viša od zvanične [prosječne plate za decembar 2022](https://www.rzs.rs.ba/static/uploads/bilteni/mesecni_statisticki_pregled/2022/Mjesecni_statisticki_pregled_Decembar_2022_Web.pdf) u našoj državi.
+
+Anketa je podijeljena u dva seta pitanja, od kojih je prvi set vezan za razloge upisa fakulteta i opštih preferencija i želja vezanih za struku, a drugi set je vezan za stanje nakon završetka fakulteta. Ispod ću kopirati uputstvo koje je dočekalo svakoga ko je popunjavao anketu, koje daje opšte informacije o anketi.
+
+> Anketa za inženjere prehrambene i hemijske tehnologije
+
+> Anketa je anonimna. Za anketu NIJE potrebno imati Google nalog. Za cijelu anketu je potrebno 3-5 minuta. 
+> Rezultati ankete služiće kao osnovni prikaz/presjek stanja struke tehnologa u Republici Srpskoj.
+> Uslovi za popunjavanje ankete su: da si završio/la Tehnološki fakultet, da si po struci dipl. inž. prehrambene ili hemijske tehnologije i da si fakultet završio/la prije više od godinu dana.
+> Anketa se sastoji od dva dijela, od kojih je prvi sastavljen od pitanja vezanih za studiranje/upis na fakultet, a drugi o informacijama vezanim za posao (u struci) nakon završetka fakulteta. 
+> Polje "other" ("drugo") odaberi ako želiš dodati svoj odgovor (a koji nije ponuđen u listi odgovora).
+> Da počneš, pritisni dugme "Dalje" ispod.
+
+Ukupno sam dobio 22 odgovora na anketu u posljednjih 7 mjeseci. Ovo je relativno mali broj ljudi, kada se posmatraju neki opšti zahtjevi za bilo kakvu veličinu uzorka. Međutim, kada se uzme u obzir da sam pitanja suzio na ljude koji nisu zaposleni kao profesori na fakultetu, kao i na one koji su diplomirali prije više od godinu dana, te da sam zanemario dva smjera (tekstilni i grafički), mislim da su rezultati dovoljno reprezentativni za objavljivanje i prikaz nekih osnovnih podataka o stanju struke diplomiranog inženjera prehrambene i hemijske tehnologije.
+# Pitanja, rezultati, komentari
+Pitanja ću postavljati u izvornom obliku, zatim ispod rezultate ankete, te na kraju komentar (ako ga budem imao).
+## Set 1
+### 1. Zašto si upisao/la Tehnološki fakultet? (Moguće je odabrati više odgovora)
+ 
+<img src="https://i.imgur.com/0dG9hNT.png">
+
+<img src="https://i.imgur.com/Jf9ZUPQ.png">
+ 
+Ovdje se potkralo nekoliko grešaka, jer sam preformulisao neka pitanja, što Google Forms nije prepoznao kao isto pitanje, pa su odgovori razdvojeni (promijenjeno je Volio/la u Volio/voljela), ali rezultati se mogu protumačiti zbirom ovih odgovora. Kao što je vidljivo, čak 77% ispitanika je odgovorilo da je zbog mogućnosti rada u potencijalno zanimljivoj branši odabralo TF.
+## 2. Koliko dugo si studirao/la? (Koliko vremena je prošlo od upisa do diplomiranja?)
+
+<img src="https://i.imgur.com/hpzD7lm.png">
+<img src="https://i.imgur.com/F9ABjE2.png">
+ 
+Gotovo 60% ispitanika je studiralo 5 godina, dok je manje od 20% ispitanika studije završilo u roku.
+## 3. Koji ti je bio najteži predmet na fakultetu i 4. Koji ti je bio omiljeni predmet na fakultetu?
+
+Ova dva pitanja sam grupisao u isto pitanje. Odgovor je bio slobodnog tipa (da se unese u odgovarajuće polje).
+
+<img src="https://i.imgur.com/Zzjouek.png">
+
+Kao što je vidljivo, Biohemija i Fizička hemija prednjače u odgovorima (po 7 ispitanika je odabralo jedan ili drugi predmet). 
+
+<img src="https://i.imgur.com/xEnkn24.png">
+
+Default eksport odgovora u Google Forms je haotičan. Zaključak: Analitička hemija i studenti TF su u “love-hate” odnosu. Mikrobiologija (hrane) prednjači, sa ukupno 5 odgovora. Ispod je lista ostalih, odnosno pojedinačnih odgovora, jer se ne vide na bar graphu.
+|     Koji ti je bio omiljeni predmet na   fakultetu?                 |
+|-------------------------------------------------------------------------|
+|     Analiticka hemija                                                   |
+|     Mikrobiologija                                                      |
+|     Ljiljana Topalic Trivunovic                                         |
+|     Prehrambene namirnice zivotinjskog porijekla 2                      |
+|     Nitritivna vrijednost namirnica                                     |
+|     Analiticka hemija                                                   |
+|     Fizička hemija                                                      |
+|     Predmeti kod Savica                                                 |
+|     Mikrobiologija hrane                                                |
+|     Matematika                                                          |
+|     Prehrambene tehnologije zivotinjskog porijekla 1 i 2                |
+|     Prehrambene tehnologije namirnica zivotinjskog   porijekla 1 i 2    |
+|     Nauka o hrani                                                       |
+|     Automatizacija u procesu proizvodnje                                |
+|     Mikrobiologija hrane                                                |
+|     Tehnologija mesa                                                    |
+|     Mikrobiologija                                                      |
+|     Analiticka hemija                                                   |
+|     Mikrobiologija hrane                                                |
+|     Analiticka hemija                                                   |
+|     Fizicka hemija                                                      |
+|     Analiticka hemija, prehrambene tehnologije, opsta   hemija          |
+ 
+## Set 2
+### 1. Prije koliko vremena si završio/la fakultet?
+
+<img src="https://i.imgur.com/BLWQlcA.png">
+
+<img src="https://i.imgur.com/JwJ9TT0.png">
+
+Ovo je opšte pitanje, čisto da se vidi presjek ispitanika.
+
+### 2. Koji je najviši nivo studija koji si završio/la?
+
+<img src="https://i.imgur.com/PjyZtAz.png">
+
+<img src="https://i.imgur.com/a3kyVEV.png">
+ 
+Ovo je “kontroverzno” pitanje, jer nema nijednog doktora nauka. Ipak, ponavljam, broj ispitanika je toliko mali da bih slanjem ankete na profesorske adrese dobio relativno nerealan prikaz stanja struke tehnologa, čak i kada bi samo 5 profesora odgovorilo na istu. Dakle, anketu je popunilo 20 diplomiranih inženjera i 2 magistra/mastera.
+
+### 3. Da li si uspješno pronašao/la posao u struci nakon završetka fakulteta?
+
+U ovom pitanju je bilo ponuđeno jednostavno “Da” ili “Ne”, pa nema potrebe kopirati izgled pitanja.
+
+Odgovori su… interesantni.
+
+<img src="https://i.imgur.com/745RJgt.png">
+ 
+U vrlo jednostavnom pitanju, vrlo značajan i zabrinjavajući odgovor. Od 22 osobe koje su završile fakultet, 11 ih se nije zaposlilo u struci ni godinu dana nakon završetka istog (to je bio uslov ankete).
+
+### 4. Ako radiš u struci, koliko vremena je prošlo od tvog diplomiranja do pronalaska posla?
+
+<img src="https://i.imgur.com/HtqJirr.png">
+
+<img src="https://i.imgur.com/XeVdjhC.png">
+ 
+Ljubičasti dio je logičan, nakon prethodnog pitanja. Zanimljiv je podatak da, od ispitanika koji su pronašli posao, nešto više od petine je našlo posao za manje od 6 mjeseci.
+
+### 5. Ako radiš u struci, da li radiš puno radno vrijeme (ako su tvoja radna vremena bila različita na različitim poslovima, odgovori za najskoriji posao)?
+
+<img src="https://i.imgur.com/CSRVv9D.png">
+  
+<img src="https://i.imgur.com/GkXYaVu.png">
+ 
+Logika bi trebalo da nalaže da narandžasti dio trebalo da bude 50%, ali rezultati su svakako zanimljivi zbog ovog drugog dijela – 50% ispitanika, koji rade u struci, rade puno radno vrijeme.
+
+### 6. Ako radiš u struci, koja je visina tvojih mjesečnih primanja?
+
+<img src="https://i.imgur.com/7omBoPU.png">
+
+<img src="https://i.imgur.com/kASUDDp.png">
+ 
+Vjerovatno svima koji ovo čitaju – jedno od najinteresantnijih pitanja. Od svih ispitanika koji rade u struci, njih oko 30% rade za platu do 1000 KM. Zeleni i ljubičasti dio kružnog grafikona su 4.5%, odnosno po jedna osoba je odgovorila sa platama 1500-2000 KM i 2000-2500 KM.
+
+### 7. Kako si pronašao/la svoj prvi posao u struci? (Moguće je odabrati više odgovora)
+<img src="https://i.imgur.com/61eTuS3.png">
+  
+<img src="https://i.imgur.com/mj2OYvv.png">
+ 
+Ovdje se ponovo ne slažu određeni podaci (9 ispitanika je odgovorilo na posljednje pitanje, umjesto 11, kako bi trebalo da bude) – moguće da je greška ili nedovoljno jasno postavljeno pitanje s moje strane. U svakom slučaju, zanimljivo je da se niko nije zaposlije preko “prave osobe”, a da se 50% ispitanika zaposlilo preko prijatelja, poznanika ili preporuke.
+### 8. Ako radiš u struci, kako bi ocijenio/la svoje cjelokupno zadovoljstvo na trenutnom poslu, kada u obzir uzmeš sve faktore (od kojih neki mogu biti npr. visina primanja, količina stresa, radno vrijeme, ...) ? Ako ne radiš u struci, preskoči ovo pitanje.
+
+<img src="https://i.imgur.com/kzm5ppb.png">
+  
+<img src="https://i.imgur.com/clZNhK3.png">
+ 
+Ponovo, vrlo zanimljiv odgovor, gdje je 60% ispitanika svoje cjelokupno zadovoljstvo na poslu ocijenilo sa 2/5.
+
+### 9. Koje kvalitete najviše cijeniš u potencijalnom poslu u struci? (Moguće je odabrati više odgovora)
+  
+<img src="https://i.imgur.com/gXpTluj.png">
+  
+<img src="https://i.imgur.com/NgEs7bR.png">
+ 
+Ovdje su odgovori šaroliki, ali kao što se vidi sa grafika, ispitanicima je najbitnija mogućnost napredovanja i visina plate u poslu koji rade.
+
+### 10. Koja pozicija u struci je tvoj “posao iz snova”? (Moguće je odabrati više odgovora)
+
+<img src="https://i.imgur.com/oWHzn78.png">
+  
+<img src="https://i.imgur.com/8eHPnf8.png">
+ 
+Rad u laboratoriji, u javnim ustanovama i u istraživanju i razvoju su najveće želje ispitanika, dok se isti najmanje žele baviti upravljanjem proizvodnjom i ljudima, i raditi u srednjim školama, kao i na terenskim poslovima.
+
+### 11. Kada bi mogao/la, da li bi promijenio/la struku? 
+  
+Ponovo, ponuđeni su samo odgovori Da ili Ne.
+
+<img src="https://i.imgur.com/gbIk2K2.png">
+  
+Gotovo 80% ispitanika bi promijenilo struku, da im se pruži ta opcija. Ovo pitanje sam namjerno stavio na kraj, da predstavlja sveukupan stav oko struke tehnologa kod nas. Nisam očekivao ovako visok procenat pozitivnih odgovora na ovo pitanje, ali kada se pregledaju prethodni odgovori, ovaj odgovor ipak koliko-toliko ima smisla.
+
+### 12. Ako je tvoj odgovor na prethodno pitanje bio “Da”, koji je razlog?
+
+Ovo pitanje je bilo otvorenog tipa, sa mogućnošću unošenja vlastitog odgovora. Odgovore postavljam u tabelu ispod.
+
+|     Ako je tvoj odgovor na prethodno pitanje bio   "Da", koji je razlog?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     Veće mogućnosti za pronalazak posla i bolja   primanja                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|     Nemogućnosti pronalaska posla u struci                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|     Nemogućnost pronalaska posla, mala plata                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|     Nemogućnost pronalaska posla u struci. U suštini ne bih mijenjala struku, završila sam ono što zaista volim, ali   nažalost u našoj zemlji nemamo nikakvu perspektivu. S obzirom na to da je   novac nešto bez čega ne možemo živjeti, nažalost nije dovoljno nešto samo   "voljeti". To je razlog zašto bih možda odabrala neki drugi poziv,   gdje bi mi bila pružena prilika da radim i napredujem.                                                                                                                                                                                                                                   |
+|     Nedovoljno prakse na fakultetu, korisne u   realnom poslu.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|     Struka nam nije dovoljno priznata i cijenjena,   plate su male, mogucnost napredovanja i usavrsavanja u privatnim firmama   gotovo nikakva.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|     Mnogo 0dgovorno I neplaćeno zanimanje.   Nedefinisan opis posla jednog inzinjera prehrane. Nepostojanje nikakve   podrske niti mogucnosti edukacije I rada. Lakse naci posao sa osnovnom   skolom. Poistovjecivanje zanimanja sa kuharima. Svi inzinjeri imaju neki   status u društvu, a mi kao sljakeri tretirani, sa mizernim placama. A studij   zahtjevan.                                                                                                                                                                                                                                                                          |
+|     Nemogucucnost zaposlenja. Jako niske place,   veliki obim posla I visokq odgovornost. Manjak vremena za porodicu.   Nemogucnost napredovanja u struci                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|     Nemogućnost pronalaska posla, plate su očajno   male                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|     Plate mizerno male                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|     Male plate, teško pronaći ili promijeniti   posao                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+|     Plate su vrlo male, vrlo tesko je pronaci   posao, opisi posla su cesto nedefinisani                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|     Male plate, teško naći posao, nije cijenjena   struka                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|     Plate su niske, treba imati srece da se   zaposlis a onda kada se zaposlis osjecaj je kao da si zapeo tu jer je drugi   posao ekstremno tesko naci, vlasnici proizvodnje cu cesto nadobudni i   needukovani ljudi koji te tretiraju kao fizikalca                                                                                                                                                                                                                                                                                                                                                                                        |
+|     Poslovi su jako rijetki, a i ako neki   "iskoci" to najcesce bude u proizvodnji tj u prljavim, hladnim i   vlaznim uslovima, plata je za takav tip posla vrlo niska, pogoni nemaju   automatizaciju vec je cesto rucna izrada kao da smo u 19. vijeku i sl. Struka   je u teoriji jako lijepa, ali u praksi, u nasoj zemlji, je jedna od najgorih   tehnickih struka koja se moze studirati...                                                                                                                                                                                                                                           |
+|     Ne bih mijenjala struku, ali planiram da   promijenim drzavu u kojoj zivim. Nepotizam, korupcija, neodgovornost,   povrsnost u obavljanju posla, tracanje i olajavanje, prijetnje zbog bolovanja   ili trudnickog, losi uslovi rada (prljavo, hladno), tesko (citaj: nemoguce   ako ne poznajes prave ljude) se nalazi posao u kancelarijskim tj fizicki   manje zahtjevnim (lab, institut, fakultet, inspekcija) uslovima, niske plate,   je ono sto krasi ovu nasu sredinu i ljude koji rade u njoj. Struka je lijepa,   studij je zathjevan ali poslovi su jednostavno jako lose placeni i ne moze se   doci do "normalnog" posla.    |
+
+## Zaključci
+Iz priloženog se vidi da vlada opšte nezadovoljstvo našom strukom, posebno kada se obrati pažnja na odgovore na drugi set pitanja. 
+
+Nadam se da će rezultati ove ankete doći do što više ljudi, i na kraju i u “prave ruke”, koje god ruke to bile. Potrebno je pokrenuti diskusiju i konkretne planove za poboljšavanje stanja struke diplomiranog inženjera tehnologije u našoj sredini. Problem je kompleksan, i njegovi pipci su i široko i duboko rasprostranjeni u našem društvu. 
+
+Kao i uvijek, potrebno je krenuti od sebe i zapitati se koji doprinos svako od nas može donijeti u rješavanju ovog problema. Moj mali doprinos je, za početak, pisanje ove ankete kao i izvještavanje o odgovorima na istu. 
