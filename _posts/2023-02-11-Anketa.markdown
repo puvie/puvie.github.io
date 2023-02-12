@@ -47,6 +47,7 @@ Kao što je vidljivo, Biohemija i Fizička hemija prednjače u odgovorima (po 7 
 <img src="https://i.imgur.com/xEnkn24.png">
 
 Default eksport odgovora u Google Forms je haotičan. Zaključak: Analitička hemija i studenti TF su u “love-hate” odnosu. Mikrobiologija (hrane) prednjači, sa ukupno 5 odgovora. Ispod je lista ostalih, odnosno pojedinačnih odgovora, jer se ne vide na bar graphu.
+
 |     Koji ti je bio omiljeni predmet na   fakultetu?                     |
 |-------------------------------------------------------------------------|
 |     Analiticka hemija                                                   |
