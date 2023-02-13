@@ -106,7 +106,7 @@ U vrlo jednostavnom pitanju, vrlo značajan i zabrinjavajući odgovor. Od 22 oso
 
 <img src="https://i.imgur.com/XeVdjhC.png">
  
-Ljubičasti dio je logičan, nakon prethodnog pitanja. Zanimljiv je podatak da, od ispitanika koji su pronašli posao, nešto više od petine je našlo posao za manje od 6 mjeseci.
+Ljubičasti dio je logičan, nakon prethodnog pitanja. Zanimljiv je podatak da, od ispitanika koji su pronašli posao, nešto manje od polovine je našlo posao za manje od 6 mjeseci.
 
 ### 5. Ako radiš u struci, da li radiš puno radno vrijeme (ako su tvoja radna vremena bila različita na različitim poslovima, odgovori za najskoriji posao)?
 
