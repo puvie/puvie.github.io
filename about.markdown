@@ -12,7 +12,7 @@ I hold a Bachelor's degree in Biotechnology & Food Technology. My Bachelor's the
 
 I also hold a Master's degree in Food Engineering, with a focus on Bioprocess/Biochemical Engineering. My Master's thesis was titled _Production of bioethanol from photocatalytically processed starch material_.
 
-My professional and academic interests lay in the industrial microbiology/bioprocess engineering field, and I like to read about process optimization and downstream processing operations. I'm also fascinated with photocatalysis and its potential applications in bioprocessing. I also like to experiment with food in my kitchen, and read about food safety, processing, microbiology and nutrition.
+My professional and academic interests lay in the applied biotechnology field, and I like to read about process optimization and downstream processing operations; I am fascinated by various filtration techniques. I also like to experiment with food in my kitchen, and read about food safety, processing, microbiology and nutrition.
 
 I'm also self-learning programming, specifically web development with JavaScript. My interests in this field are in the so called back-end development with Node & Express.
 
